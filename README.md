@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# TiltedFox.github.io
-=======
 # web_application
 
 A new Flutter project.
